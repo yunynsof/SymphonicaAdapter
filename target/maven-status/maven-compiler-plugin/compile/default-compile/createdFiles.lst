@@ -1,0 +1,5 @@
+hn\com\tigo\josm\orchestrator\adapter\symphonica\task\EventBrokerNotificationTask.class
+hn\com\tigo\josm\orchestrator\adapter\symphonica\task\SymphonicaWorkflowOrderTask.class
+hn\com\tigo\josm\orchestrator\adapter\symphonica\SymphonicaAdapter.class
+hn\com\tigo\josm\orchestrator\adapter\symphonica\task\SymphonicaServiceOrderTask.class
+hn\com\tigo\josm\orchestrator\adapter\symphonica\utils\SymphonicaConstantsAdapter.class

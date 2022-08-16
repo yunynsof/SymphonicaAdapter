@@ -1,0 +1,23 @@
+{
+	"configExpiration": 86400000,
+	"maxThroughput": 600,
+	"driverPoolSize": 50,
+	"driverConfig": {
+		"timeout": 30000,
+		"connections": {
+			"SymLogin": {
+				"parameters": {
+					"endpoint": "https://hn.qasymphonica.tigo.com/sso_rest/authentication/login?username=%s&password=%s",
+					"userName": "tigohnapi",
+					"password": "4zjuDE33"
+				}
+			},
+			"SymProv": {
+				"parameters": {
+					"endpoint": "https://hn.qasymphonica.tigo.com:443/service-order-manager/api/service-orders"
+				}
+			}
+		}
+	},
+	"mockTaskDelay": []
+}
